@@ -165,5 +165,5 @@ def cleanData():
     df.to_csv('inmate_list.csv', index=False)
 
 
-# getData()
+getData()
 cleanData()
