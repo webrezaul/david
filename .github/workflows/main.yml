@@ -20,9 +20,6 @@ jobs:
             ${{ runner.os }}-pip-
       - run: pip install -r requirements.txt
       - uses: nanasess/setup-chromedriver@v1
-        with:
-          # Optional: do not specify to match Chrome's version
-          chromedriver-version: '104.0.5112.79'
       - run: |
           export DISPLAY=:99
           chromedriver --url-base=/wd/hub &
