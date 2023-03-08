@@ -1,6 +1,7 @@
 LastName,FirstName,InmateID,Housing,Address,City,State,Zip
 Abrego Cruz,Jose Raul,266043,A3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Abreu Romero,Steven Anthony,262595,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Ackerman,Jacob Clinton,272706,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Acosta,Bruce,226167,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Acrey,Nasir Joseph,251682,B5-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Adams,Lewis Cedric,172663,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -21,7 +22,7 @@ Allen,Jeremiah,262704,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Allen,Joenathan,190214,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Allen,Shea Michael,204918,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Alonzo,Carlo,10594,A3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
-Alston,Samia,266778,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
+Alston,Samia,266778,D1n-d5,900 N. Rock Road,Fort Pierce,Florida,34952
 Alvarez,Victor Omar,218132,A2-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Alvarez Hierrezuelo,Rafael,231294,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Alvarez Malone,Luis Enrique,270735,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -37,10 +38,11 @@ Araujo Suero,Emil Antonio,273293,B4-d3,900 N. Rock Road,Fort Pierce,Florida,3495
 Arellano-ramirez,Carlos Gilbert,237383,D2e-d9,900 N. Rock Road,Fort Pierce,Florida,34952
 Arguello,Margarito,265981,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Arias-ramires,Jean Cluad,272793,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
-Arrastia,Julian,272733,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
+Arizpe,Shannon Marie,252727,D1n-d4,900 N. Rock Road,Fort Pierce,Florida,34952
+Arrastia,Julian,272733,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Arroyo,Jason,243522,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Augustin,Maxime,245828,A3-d1,900 N. Rock Road,Fort Pierce,Florida,34952
-Auten,Jodi Denise,266994,D1n-d5,900 N. Rock Road,Fort Pierce,Florida,34952
+Auten,Jodi Denise,266994,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Avilis,Marc Anthoine,254508,D2e-d10,900 N. Rock Road,Fort Pierce,Florida,34952
 Babcock,Damion Lee,269394,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Babooram,Jordan Clive,257881,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -83,11 +85,10 @@ Blue,Jasper Leon,25149,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
 Boardman,Mark Andrew,16596,B1-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Boland,Robert Michael,66533,D2e-d9,900 N. Rock Road,Fort Pierce,Florida,34952
 Bolanos,Javier Armando,263396,A3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
-Bolding,Brandy Michelle,272427,Bk-b1,900 N. Rock Road,Fort Pierce,Florida,34952
 Boles,Roger,261554,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Boles,Symone Antoinette,233261,D1s-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Bollen,Nicholas Scott,252078,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
-Bonville,Michelle Lynn,166082,Bk-b1,900 N. Rock Road,Fort Pierce,Florida,34952
+Bonville,Michelle Lynn,166082,D1s-d10,900 N. Rock Road,Fort Pierce,Florida,34952
 Bornot,Michael Steven,261989,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
 Boskey,Robert John,227568,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Boston,Tyrone,8610,A3-d1,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -99,13 +100,12 @@ Bowman,Edward James,255056,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Bradley,Cassey Leonard,219437,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Brancaccio,Albert Eugene,62427,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Brand,Json Jamall,270693,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
+Brannon,Jamie D,269832,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Bridges,Bernicianna Keithsha,271657,D1n-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Briggs,Jahiquan Maurice,256315,D2e-d9,900 N. Rock Road,Fort Pierce,Florida,34952
 Bright,Eric Steven,263293,B5-d3,900 N. Rock Road,Fort Pierce,Florida,34952
-Brithinee,Scott Steven,168554,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Brodsky,Jon Laurence,271432,B1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Brooks,Roy,208268,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
-Broomfield,Bernard Marice,170613,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Brown,Corey Lamont,247396,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Brown,Damari Lamar,199014,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Brown,Kano Roen Demetrius,241567,Ooch-mcso,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -159,7 +159,6 @@ Carpenter,Keith Allen,54476,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Carroll,William Russell,231042,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Carswell,Kanizja Amoni,251388,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Carter,Chad Edward,107222,Cen-isol,900 N. Rock Road,Fort Pierce,Florida,34952
-Carter,Thomasina Patricia,270785,D1s-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Casiano,Bridget Maria,218249,A3-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Casseus,Maxo,243161,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Casson,Maja Alice,270961,D1s-d11,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -176,7 +175,6 @@ Chavis,Antwavian Vochon,65213,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Cherette,Mercilia Jakie,255512,D1s-d10,900 N. Rock Road,Fort Pierce,Florida,34952
 Cherisol,Franck Fortune,257492,B3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Christian,Tjyon Imari,272312,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
-Christman,Kerry Benjamin,254091,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Chung Guzman,Naldy,270804,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Cipriani,David Michael,260084,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Civittolo,Anthony Andrew,183894,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -234,7 +232,7 @@ Daniels,Victoria Ann,160208,D1n-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Danzey,Willie Edward,22459,D2e-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Darling,Terell Eugene,272807,A2-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Darville Jr,Calvin Jerome,155108,A2-d4,900 N. Rock Road,Fort Pierce,Florida,34952
-Daughtry,Johnquavious Romance,232605,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Daughtry,Johnquavious Romance,232605,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Daughtry,Phillip Junior,481,B5-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Daughtry,Rashawn Tequan,256622,D2e-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Davidson,Banista Lloyd,252023,D2e-d7,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -242,17 +240,15 @@ Davidson,Bavrine Elaine,271072,D1n-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Davis,Danquiel,221208,D2e-d10,900 N. Rock Road,Fort Pierce,Florida,34952
 Davis,Immanuel Nickole,273200,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Davis,Jonathan B,273259,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
-Davis,Kareem Askarie,245969,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Davis,Kareem Askarie,245969,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Davis,Kevin Neville,5898,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Davis,Kurtisha,271100,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Davis,Marcus Rashad,234550,A2-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Davis,Nicholas Corneil,48271,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
 Davis,Robert Lee,107215,D2e-d9,900 N. Rock Road,Fort Pierce,Florida,34952
 Dawson,Emanuel,5179,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
-Dawson,Martin James,216816,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Dawson,Michael Levern,231809,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Day,Leigha Michelle,269411,D1n-d2,900 N. Rock Road,Fort Pierce,Florida,34952
-Debevec,Michael Anthony,41633,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Decesare,Elaina Marie,273406,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Dehart,Aaron Charles,124868,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Delancy,Joseph,270277,B3-d1,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -262,6 +258,7 @@ Delvecchio,Giovanni Eugenio,266726,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34
 Deneus,James Kelly,200705,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Dennis,David Samauel,189664,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Dennis,Melina Marie,50512,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
+Dere,Steven,262663,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Diaz,Jairo,227439,D2e-d9,900 N. Rock Road,Fort Pierce,Florida,34952
 Distefano,Michael Andrew,249631,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
 Doe,Willie Cee,270736,A2-d4,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -276,7 +273,7 @@ Dubel,Corey Preston,204198,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Dumont,Plasder,259778,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Dunbar,James Wilbert,238337,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Dunn,Jermario Bernard Di'juan,240243,A2-d4,900 N. Rock Road,Fort Pierce,Florida,34952
-Durden,David Dante,157223,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
+Durden,David Dante,157223,A2-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Durden,Dontrail Morale,171538,B3-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Durham,Jeffery Jerado,243051,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Durham,Julie Ann,180658,D1n-d4,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -303,6 +300,7 @@ Evans,Ashley Lynn,246631,D1s-d10,900 N. Rock Road,Fort Pierce,Florida,34952
 Evans,Charmarkco Shawntrayvious,24892,D2e-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Evans,Kenneth Earl,39063,D2e-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Evans,Sharmarkco Dontrayvious,269936,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
+Everhart,Brenden Tyler,249342,A2-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Exilus,Jimmy,262371,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Fanfan,Frantz,257344,B3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Farnum,Daniel Troy,238507,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -315,7 +313,6 @@ Ferguson,Joseph Jerome,141167,D1s-d9,900 N. Rock Road,Fort Pierce,Florida,34952
 Ferraira,Nicole Lee,249699,A3-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Ferris,Randall Wayne,270865,B1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Fick,Andrew George,252562,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
-Fidele,James,273408,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Fields,Michael Brent,23311,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Fields,Terry Sharma,132615,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Fisher,Dwayne Anthony,252813,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -375,7 +372,6 @@ Goette,Colton Dee,270022,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Gonzalez,Abelardo,269178,B3-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Gonzalez Alvarez,Gilbert,272630,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Gonzalez-salinas,Marcos,222792,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
-Goodman,Devin Dejour Jerome,261474,D2e-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Gookool,Howard Anthony,165070,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Gordon,Dejaun Anthony,265749,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Gordon,Joe Henry,258146,B1-d3,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -420,7 +416,6 @@ Hall,Willie Lee,63302,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Hamilton,Alvin Maurice,248187,D2e-d10,900 N. Rock Road,Fort Pierce,Florida,34952
 Hamilton,Lee Marcus,273362,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Hamilton,Toussaint Buneko,252356,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
-Hankins,Cody Allen,273349,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Hanna,Shantasha Lamont,201867,D1s-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Harris,Andy Michael Hoffman,253376,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Harris,Anthony Zachary,256881,A2-d4,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -435,6 +430,7 @@ Hause,Jamie Ray,273118,B3-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Hawkins,William E,236291,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Hayes Jr,Cedric Jermaine,234267,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Hayes,Kelli L,192147,D1s-d10,900 N. Rock Road,Fort Pierce,Florida,34952
+Hayes,Montavious Antwon,159468,B1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Hayling,Jason Lenard,224903,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Haynes,Joshua Vernester,224939,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Hearron,William Grady,125910,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -448,6 +444,7 @@ Henmy,Jack Lee Darquise,237066,B3-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Henry,Charline,244516,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Hernandez,Evelio Martin,173750,A3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Hernandez,Jose Octavio,272224,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Hernandez,Lazaro Negrin,273425,Bk-b1,900 N. Rock Road,Fort Pierce,Florida,34952
 Herrington,Wayne Levi,232331,A2-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Hickman,Tramaine Malik,236759,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Hicks,Alex,453,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -462,7 +459,7 @@ Holly,William Keith,271871,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Holmes,Kenneth Lavon,261881,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
 Holmes,Latravious Zavion,271493,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Hooker,William Robert,137915,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
-Hopkins,Dajour Amar,177288,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
+Hopkins,Dajour Amar,177288,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Hopper,James L,263927,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Horton,Edward Joseph,48484,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Hoskie,David Matthew,34717,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -482,7 +479,6 @@ Iglesias Diaz,Aniel,268594,A2-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Ingraham,Carl C,245502,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
 Ingram,Robert Lee,22958,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Iniesta,Fernando,151881,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
-Inman,Brantavios La'norris,271686,A3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Irving,Rashid Abdu-allah,258359,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Isreal,Frederick Thomas,259632,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Ives,Daniel Chapman,258136,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -491,15 +487,16 @@ Jackson,Arthur Michael,272494,A2-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Jackson,Javon Sean,270517,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
 Jackson,Jerald Corneilus,59165,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Jackson,King Curtis,254682,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
-Jackson,Mark Anthony,14968,B3-d4,900 N. Rock Road,Fort Pierce,Florida,34952
+Jackson,Mark Anthony,14968,B1-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Jackson,Omarion Levon,237860,Cen-isol,900 N. Rock Road,Fort Pierce,Florida,34952
 Jackson,Zhantevez Tra'ja,263565,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Jacobo,Jonathan,260628,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 James,Drayton J,34968,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 James,Tommy L,137356,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
+James Cook,Javarus Edward,273422,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Jean,Dontae Minocal,201549,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Jean,Perry Samuel,263778,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
-Jean Philippe,Gammyr Jack Anthony,255252,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Jean Philippe,Gammyr Jack Anthony,255252,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Jeanfort,Lenor Dominick,189907,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Jefferson,Antonio Sentell,20609,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Jenkins,Danyel Lashay,265538,D1s-d10,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -549,19 +546,18 @@ Kennedy,Cedric Tony,123289,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Kennedy,Kayla Rose,239977,D1s-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Kennedy,Kylechristian Joseph,262334,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Kent,Michael Anthony,118204,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
-Kimmins,Samantha Lyn,245323,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
+Kilian,Daniel W,261518,A2-d3,900 N. Rock Road,Fort Pierce,Florida,34952
+Kimmins,Samantha Lyn,245323,A3-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 King,Bernarda Kee-shae,209062,D1n-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 King,Jacari Oshea,269140,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 King,Shaydonia Denise,1030,D1s-d10,900 N. Rock Road,Fort Pierce,Florida,34952
 King,Vinson Barnard,50676,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Kirkland,Lakisha Denise,266677,D1s-d11,900 N. Rock Road,Fort Pierce,Florida,34952
-Kirkland,Rudolph V,258358,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Klepper,Alicia N,255141,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Klusacek,Joseph Rudy,234111,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Knighton,Tamarcus Jaquan,270124,B5-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Kovaly,Michael Gabriel,273189,B3-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Krotkiewicz,Joseph M,272633,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
-Kruse,Hunter William,249482,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Kuehn,Lori Anne,96003,D1s-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Labastida,Gerardo Daniel,263935,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Lacroix,Maggie Anne Marie,267048,D1s-d6,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -569,7 +565,6 @@ Lagrandeur,Jean Robert,207096,D2e-d10,900 N. Rock Road,Fort Pierce,Florida,34952
 Lamb,Derrick Tyrone,235749,D2e-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Lamoureux,Devon Pierre,272276,A2-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Lane,Deonta T,240741,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
-Lang,Jennifer Lynn,249604,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Lara Incer,Francisco Javier,265667,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Lascano,Ulysis,268682,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Lasecki,Brian Keith,37396,D2e-d10,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -593,7 +588,7 @@ Lewis,James William,238052,B1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Lewis,Jeremie Lee,133014,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Lewis,Steven Anthony,159679,B1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Lewis,Terry Lynn,104862,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
-Lewis,Willie G,226826,B3-d4,900 N. Rock Road,Fort Pierce,Florida,34952
+Lewis,Willie G,226826,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Likes,Joseph Richard,201750,D2e-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Lisby Jr,Robert Ernest,263918,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Littles,Tachina Erica,198597,D1s-d6,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -614,7 +609,6 @@ Louisjeune,Ranell Rayshad,240145,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,349
 Louissaint,Evens Malachy,244738,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Lowery,Derek Anthony,260659,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Lully,Charlemagne Bernard,14774,D2e-d7,900 N. Rock Road,Fort Pierce,Florida,34952
-Luppens,Paul Michael,70913,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Macias,Carlos,62880,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Mack,Elijah Richard,54561,A3-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Mack,Irving Lee,42076,A3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -639,6 +633,7 @@ Maribona,Timothy Michael,236610,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Marlowe,Amanda Dawn,271788,D1s-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Marquez,Bryan,272371,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Marquez,Ruth Dayanara,229325,D1n-d3,900 N. Rock Road,Fort Pierce,Florida,34952
+Marston,Malik Tyrell,273423,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Martin,Joseph Earl,169909,B1-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Martin,Mariah M,268922,D1n-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Martin,Tekela Shantay,255517,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -661,9 +656,8 @@ Maynard,Roy Charles,239596,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Mayorga,Linda Marie,208256,D1s-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Mc Adory,Alonzo,272437,A2-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Mcbride,Blakely Mo,226002,A3-d3,900 N. Rock Road,Fort Pierce,Florida,34952
-Mcbride,Dequain Reshawd,226958,A2-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Mccants,Avon,120271,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
-Mccarthy,Dacia,273252,D1n-d4,900 N. Rock Road,Fort Pierce,Florida,34952
+Mccarthy,Dacia,273252,A3-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Mccarty,William Andrew,208549,B1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Mccauley,Jennifer Marie,263767,A3-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Mcclendon,Vernon Levi,271667,B1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -691,6 +685,7 @@ Mendoza Alava,Angel Honorio,201303,A3-d1,900 N. Rock Road,Fort Pierce,Florida,34
 Mercado Melendez,Heriberto,271234,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Mertilus,Johntavious Rashar,272481,D2e-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Meza,Jaime Alonso,263032,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
+Milian,Joshua Brett,273418,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Miller,Gary Jerome,248485,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Miller,Glen Christopher,134699,A2-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Miller,Jamarion Abari,266644,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -717,11 +712,11 @@ Montgomery,Walter Louis,61210,D2e-d9,900 N. Rock Road,Fort Pierce,Florida,34952
 Montoya,Manuel Nicholas,250915,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Moody,Demetrius O,120726,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Moore,Keith J,266257,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
+Morales I,Blake Angel,259878,B1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Morales,Elvis,272057,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Morancy,Netgyne,223540,D1s-d11,900 N. Rock Road,Fort Pierce,Florida,34952
-Moreno,Veronica,273285,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
+Moreno,Veronica,273285,A3-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Morgan,Joseph Dahvarin,253844,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
-Morgan,Karion,273379,A2-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Morgan,Wayne Thomas,244811,B1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Morris,Christopher Allen,254691,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Morris,Javontae Lee,263862,B3-d1,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -737,8 +732,7 @@ Murphy,Marguerite,258258,D1n-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Murray,Christopher Deon,226160,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Murray,Deshawn Lartisha,262936,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Murray Auguste,Kelleen Dean,271815,D1n-d3,900 N. Rock Road,Fort Pierce,Florida,34952
-Muxin Espinoza,Yasin,273409,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
-Myers,Dolores Jean,269561,D1s-d11,900 N. Rock Road,Fort Pierce,Florida,34952
+Myers,Dolores Jean,269561,D1s-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Myers,Lynn Marie,27481,D1s-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Nantz,Jeremiah,269814,A2-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Nava,Juan Daniel,242488,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -762,11 +756,12 @@ Nurse,Dante Jamellis,256387,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 O'hara,Collin Martin,255305,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
 Oakes,David Lang,270058,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Obrien,Joseph M,255464,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
+Ogden,Michelle Mary-jean,273419,D1s-d10,900 N. Rock Road,Fort Pierce,Florida,34952
 Ohara,Bobby Lee,271885,B5-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Oley,Matthew Ian,26780,B3-d1,900 N. Rock Road,Fort Pierce,Florida,34952
-Oliver,Justin James,267137,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Oliver,Justin James,267137,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Olson,Laura Ellen,155705,D1s-d11,900 N. Rock Road,Fort Pierce,Florida,34952
-Olson,Michael Wayne,242686,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Olson,Michael Wayne,242686,A2-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 O'meally,Kevin Christopher,246341,D2e-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Oporto,Dylan Louis,266053,B1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Orcel,Louis,148152,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -812,6 +807,7 @@ Petrie,Mathew Shadow,260590,B5-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Phillips,Barbara Ruth,261426,D1n-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Phillips,Jonathan M,241244,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Phoenix,Mary Chistina,245216,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
+Pickard,William Jay,230457,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Pierce,Maxwell Antonio,160802,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Pierre,Armondy,270321,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
 Pierre,Bonel,271643,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -839,10 +835,10 @@ Quillen,Cody Michael,202269,A2-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Raglievich,Bernay Louise,242052,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Rahming-gibson,Avery Deonte,242860,D2e-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Raimondi,Holly Lynne,272493,D1n-d2,900 N. Rock Road,Fort Pierce,Florida,34952
-Ramirez,Eduardo,225612,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
 Ramirez Calixto,Juan Daniel,272019,D2e-d9,900 N. Rock Road,Fort Pierce,Florida,34952
 Ramirez Frias,Danilo O,249676,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Ramirez Martin,Marcos,257693,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
+Ramirez Travieso,Ariel,273426,Bk-b1,900 N. Rock Road,Fort Pierce,Florida,34952
 Ramos,Carlos Xavier,246338,D2e-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Ramos,Christian Antonio,259604,D2e-d10,900 N. Rock Road,Fort Pierce,Florida,34952
 Randolph,Charles Wayne,206542,A2-d3,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -869,7 +865,6 @@ Riggins,Dominique Antiell,171040,D2e-d9,900 N. Rock Road,Fort Pierce,Florida,349
 Rilat,Adam Michael,233954,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Rios,Jason Orlando,249610,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Rios,Marielis Ivette,204015,D1s-d6,900 N. Rock Road,Fort Pierce,Florida,34952
-Rios Aguilar,Eduardo,270540,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Riselvato,Stephen Thomas,245840,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Rivas-rodriguez,Abel,268680,D2e-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Rivera,Anthony,240426,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -902,16 +897,16 @@ Ruth,Geramiah Augusta,33906,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Saad,Noah Sadoon,273373,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Saint Louis,Clavius H,265499,B3-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Saint Louis,Julnord,269091,B5-d3,900 N. Rock Road,Fort Pierce,Florida,34952
+Saint-fort,Lovensky,273338,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Salgado Carvajal,Miller Giovanny,271468,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Salinas,Leonardo,267273,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
 Salvat Ramos,Jose Enrique,260197,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Sanchez,Jesus Martin,171444,B3-d1,900 N. Rock Road,Fort Pierce,Florida,34952
-Sanders,Ricardo Jeremine,146452,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
+Sanders,Ricardo Jeremine,146452,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Santos,Carl,262374,B1-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Sapp,Mikeal Terrell,128224,D2e-d9,900 N. Rock Road,Fort Pierce,Florida,34952
 Sarabia Adame,Alejandro,272528,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Saturne,Willem,248842,A2-d2,900 N. Rock Road,Fort Pierce,Florida,34952
-Savage,Jill Anne,273326,D1n-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Schmitz,Jacob David,256636,A3-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Schroeder,Brandon Henry,171313,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Schwarz,Anthony C,236398,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -920,12 +915,12 @@ Scott,Justin Devin,40691,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Scott,Kevin Leon,97800,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Semiz,Michael Anthony,249213,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Serrano,Wilmar,262869,B3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
+Shaffer,Steven Shane,34785,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Shea,Timothy Christopher,227949,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Sheltra,Derrick Ronald,165718,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Shepherd,Hilaire D,34160,A2-d2,900 N. Rock Road,Fort Pierce,Florida,34952
-Sherry,Renee Ann,139349,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Sherry,Renee Ann,139349,D1s-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Shine,Nicole D,272900,A3-d4,900 N. Rock Road,Fort Pierce,Florida,34952
-Shine,Tommy Calvin,273411,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Simmons,Justin Cole,249665,B5-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Simmons,Nelson Joseph,217008,D2e-d7,900 N. Rock Road,Fort Pierce,Florida,34952
 Simmons,Ra'keem Tristan,260554,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -959,7 +954,7 @@ Sparks,Travis Lee,54021,D2e-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Spells,Bobby Lee,267551,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Spencer,Jasmine Sharnice,218183,D1s-d11,900 N. Rock Road,Fort Pierce,Florida,34952
 Sposa,Joseph Richard,33664,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
-Staffney,Jesse James,19805,D2e-d10,900 N. Rock Road,Fort Pierce,Florida,34952
+Staffney,Jesse James,19805,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Starkey,Michael Douglas,261091,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Steffen,Nicholus Christian,200030,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Steinbach,Kevin Arthur,271954,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -977,7 +972,7 @@ Stora,Richard,261950,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Stott,Brian John,157698,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Strachan,William,38200,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Straut,Kenneth Jeffrey,236220,B5-d3,900 N. Rock Road,Fort Pierce,Florida,34952
-Strong,Kevin Jacoby,202677,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Strong,Kevin Jacoby,202677,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Strong,Terrel Cornelius,260945,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Stroud,David Jerry Loren,259534,D1s-d9,900 N. Rock Road,Fort Pierce,Florida,34952
 Strowbridge,Jimmy Lee,194848,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -997,16 +992,14 @@ Telfort,Tarrin Kaunda,271092,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Terilus,Ferdinand King,243952,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Terry,Donald Lee,157608,B3-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Terry,Gerles William,7154,D2w-d4,900 N. Rock Road,Fort Pierce,Florida,34952
-Terry,Javorius Eugene,205512,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Thomas,Anthony Tyrone,70317,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Thomas,Ariel Mia,272988,D1n-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Thomas,Clemeshia Aryanna Elizabe,221188,D1n-d4,900 N. Rock Road,Fort Pierce,Florida,34952
+Thomas,George Robert,57018,A2-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Thomas,Lonnie Carl,225122,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Thomas,Tevin Oliveyan,191353,D2e-d11,900 N. Rock Road,Fort Pierce,Florida,34952
-Thomas,Tobias Bruno,229591,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
 Thompson,Eric,244323,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Thompson,Maurice Albert,272564,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
-Thompson,Michael Gerard,227549,B5-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Thornhill,Michael Adam,270413,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Thornton,Philip Edward,118159,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Tillman,Artimus Demetris,69730,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -1036,7 +1029,7 @@ Velasquez,Rebecca Dicara,269001,D1s-d7,900 N. Rock Road,Fort Pierce,Florida,3495
 Velazquez,Luis,273014,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Viccaro,Russell,14378,A2-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Portillo,Alejandro Villalba,273180,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
-Vinson,Charlien Casey,260226,D1n-d4,900 N. Rock Road,Fort Pierce,Florida,34952
+Vinson,Charlien Casey,260226,A3-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Voigt,Reinhard Georg,269563,B3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Wade,Larry Charles,1236,D2e-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Wade,Ramon Lee,202011,A2-d2,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -1074,16 +1067,18 @@ Wilder,Jacquez Leyon,233859,B1-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Wildes,Tyler Jaye,224691,D2e-d12,900 N. Rock Road,Fort Pierce,Florida,34952
 Willcoxson,Zachary J,272328,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams Iv,Charles Clyde,266510,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Williams,Christopher Lee,164597,B4-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams,Derrek Deyon,203417,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams,Ebenezer Isaiah,269373,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams,Jamie Jarvontae,252343,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams,Jeffrey Eugene,252827,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams,Kelvin L,250930,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Williams,Lopez Gennero,263129,B4-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams,Marquis Anthony,261725,D1s-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams,Otis Lee,266200,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams,Radravious D'juan,252972,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams,Ray Charles,41578,D2e-d9,900 N. Rock Road,Fort Pierce,Florida,34952
-Williams,Shantaneka Markeya,271555,Med-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Williams,Shantaneka Markeya,271555,D1n-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Williams,Travis Lee,246028,A1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Willis,Antwan Ledravius,52226,B5-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Willis,Jonathon,253282,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -1095,7 +1090,6 @@ Wilson,Demetris Leonard,20254,B5-d4,900 N. Rock Road,Fort Pierce,Florida,34952
 Wilson,Dravis Lavon,65013,A3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Wilson,Farris Eugene,107189,D2w-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Wilson,James Anthony,204679,D2w-d6,900 N. Rock Road,Fort Pierce,Florida,34952
-Wilson,Steven Mark,251076,D2e-d8,900 N. Rock Road,Fort Pierce,Florida,34952
 Wimbush,Elizger Samuel,242677,D2w-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Windrom,Timothy Reynold,255473,B4-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Wood,Nathaniel,271604,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
@@ -1107,8 +1101,10 @@ Wyatt,Eddie James,24329,B3-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Wyche,Michael Lewis,135093,A2-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Yisrael,Zepheniah Tefiltanu,269318,B4-d1,900 N. Rock Road,Fort Pierce,Florida,34952
 Yon,Leviticus Jasper,133409,A2-d1,900 N. Rock Road,Fort Pierce,Florida,34952
+Young,Jeremiah Eugene,142010,A1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Young,Myra Traniece,180130,D1n-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Young,Thomas B,143183,B3-d2,900 N. Rock Road,Fort Pierce,Florida,34952
+Young,Zavion R,245960,B1-d2,900 N. Rock Road,Fort Pierce,Florida,34952
 Youngblood,Marquell E,244200,D2w-d5,900 N. Rock Road,Fort Pierce,Florida,34952
 Zamudio-hernandez,Nicholas Antonio,272338,D2w-d3,900 N. Rock Road,Fort Pierce,Florida,34952
 Zemliska,John Martin,271978,B1-d1,900 N. Rock Road,Fort Pierce,Florida,34952
