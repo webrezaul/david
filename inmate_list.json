@@ -129,19 +129,25 @@
         "Alonzo, Carlo",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=10594",
         "10594",
-        "Housing:  D1s-d8"
+        "Housing:  B4-d2"
     ],
     [
         "Altringer, Dominic John",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=273497",
         "273497",
-        "Housing:  B4-d3"
+        "Housing:  -"
     ],
     [
         "Alvarez, Joseph Albert",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=63518",
         "63518",
         "Housing:  A4-d1"
+    ],
+    [
+        "Alvarez, Miguel Angel",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274658",
+        "274658",
+        "Housing:  -"
     ],
     [
         "Alvarez, William Richard",
@@ -297,7 +303,7 @@
         "Bailey, Kenny Nelson",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=51373",
         "51373",
-        "Housing:  B4-d2"
+        "Housing:  -"
     ],
     [
         "Baker, Roderick Anthony",
@@ -345,7 +351,7 @@
         "Barker, Alfonso Terell",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=170911",
         "170911",
-        "Housing:  B3-d4"
+        "Housing:  B3-d2"
     ],
     [
         "Barnes, Donald Girard",
@@ -417,12 +423,6 @@
         "Becker, Austin Logan",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274631",
         "274631",
-        "Housing:  -"
-    ],
-    [
-        "Begg, Tanner Gary",
-        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274578",
-        "274578",
         "Housing:  -"
     ],
     [
@@ -609,7 +609,7 @@
         "Bradley, Dontavious Reshawn",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=223475",
         "223475",
-        "Housing:  B1-d3"
+        "Housing:  D2w-d2"
     ],
     [
         "Bradley, Kenneth Deshun",
@@ -711,7 +711,7 @@
         "Brown, Takiyah Michelle",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=164819",
         "164819",
-        "Housing:  D1s-d11"
+        "Housing:  -"
     ],
     [
         "Brown, Waldron Jamine",
@@ -825,7 +825,7 @@
         "Cadejuste, Marco Thony",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=54929",
         "54929",
-        "Housing:  B5-d3"
+        "Housing:  B1-d3"
     ],
     [
         "Cadovius, Logan Vincent",
@@ -837,12 +837,6 @@
         "Cajas, Edwin G",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=192285",
         "192285",
-        "Housing:  Bk-b1"
-    ],
-    [
-        "Calcano, Derek Lee",
-        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=261645",
-        "261645",
         "Housing:  -"
     ],
     [
@@ -868,12 +862,6 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=27783",
         "27783",
         "Housing:  B3-d2"
-    ],
-    [
-        "Campbell, Rohan Conrad",
-        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=272745",
-        "272745",
-        "Housing:  B4-d3"
     ],
     [
         "Cannon, Adam Keith",
@@ -1056,6 +1044,12 @@
         "Housing:  A4-d4"
     ],
     [
+        "Cilluffo, John Batista",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=177697",
+        "177697",
+        "Housing:  D2e-d8"
+    ],
+    [
         "Cipriani, David Michael",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=260084",
         "260084",
@@ -1107,7 +1101,7 @@
         "Clarke, Evans Barrington",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=271877",
         "271877",
-        "Housing:  B5-d1"
+        "Housing:  -"
     ],
     [
         "Clarke, Kevon Antonio",
@@ -1212,6 +1206,12 @@
         "Housing:  D2e-d7"
     ],
     [
+        "Collins, Nathaniel",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=189935",
+        "189935",
+        "Housing:  -"
+    ],
+    [
         "Colson, Michael Marquis",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=246721",
         "246721",
@@ -1228,6 +1228,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=272250",
         "272250",
         "Housing:  D2e-d8"
+    ],
+    [
+        "Conran, Sean Allen",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=271148",
+        "271148",
+        "Housing:  -"
     ],
     [
         "Copas, Jon David Christoph",
@@ -1383,7 +1389,7 @@
         "Daise, Kendrick Davon",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274572",
         "274572",
-        "Housing:  A4-d3"
+        "Housing:  -"
     ],
     [
         "Daker, Jason Emery",
@@ -1539,7 +1545,7 @@
         "Deneus, James Kelly",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=200705",
         "200705",
-        "Housing:  A4-d2"
+        "Housing:  D1s-d8"
     ],
     [
         "Denn, Ronald Francis",
@@ -1569,7 +1575,7 @@
         "Desir, Windly Pierre",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274645",
         "274645",
-        "Housing:  D2e-d12"
+        "Housing:  -"
     ],
     [
         "Dessin, Miguel",
@@ -1582,6 +1588,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=256535",
         "256535",
         "Housing:  A1-d2"
+    ],
+    [
+        "Di Paolo-chiodini, Fabio Eduardo",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274653",
+        "274653",
+        "Housing:  -"
     ],
     [
         "Diaz, Jorge Luis",
@@ -1611,7 +1623,7 @@
         "Dobson, Jaheim T",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=254620",
         "254620",
-        "Housing:  A4-d2"
+        "Housing:  D2e-d12"
     ],
     [
         "Doe, Willie Cee",
@@ -1636,6 +1648,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=265263",
         "265263",
         "Housing:  D1s-d6"
+    ],
+    [
+        "Dornburgh, Canda Arlene",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=272359",
+        "272359",
+        "Housing:  -"
     ],
     [
         "Dorsey, Carlos Antonio",
@@ -1785,7 +1803,7 @@
         "Ellis, Bobby",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=19774",
         "19774",
-        "Housing:  Bk-b1"
+        "Housing:  A4-d4"
     ],
     [
         "Ellis, Bobby C",
@@ -1881,7 +1899,7 @@
         "Farhoud, Mahmoud Nidal",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=246382",
         "246382",
-        "Housing:  A4-d1"
+        "Housing:  -"
     ],
     [
         "Farnum, Daniel Troy",
@@ -2463,7 +2481,7 @@
         "Gunn, Quarterrious Leonard",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274646",
         "274646",
-        "Housing:  Bk-b1"
+        "Housing:  -"
     ],
     [
         "Gunther, Cory Sean",
@@ -2529,7 +2547,7 @@
         "Halpern, Nicole Page",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274641",
         "274641",
-        "Housing:  D1n-d3"
+        "Housing:  -"
     ],
     [
         "Haluska, Haecha Sato",
@@ -2772,6 +2790,12 @@
         "Housing:  A4-d4"
     ],
     [
+        "Hernandez, Melvin Adaias",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=243212",
+        "243212",
+        "Housing:  A4-d1"
+    ],
+    [
         "Hernandez Cobo, Silvia Caridad",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=265984",
         "265984",
@@ -2800,6 +2824,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=453",
         "453",
         "Housing:  -"
+    ],
+    [
+        "Hicks, Michael Brandon",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=159179",
+        "159179",
+        "Housing:  Bk-b1"
     ],
     [
         "Hicks, Willie Edward",
@@ -2928,6 +2958,12 @@
         "Housing:  A3-d4"
     ],
     [
+        "Hughes, Todd Ryan",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274671",
+        "274671",
+        "Housing:  Bk-b1"
+    ],
+    [
         "Hummel, Rian Taylor",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=220491",
         "220491",
@@ -2952,10 +2988,22 @@
         "Housing:  D2e-d7"
     ],
     [
+        "Hunter, Clifton James",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=142067",
+        "142067",
+        "Housing:  A4-d4"
+    ],
+    [
         "Hurlburt, Brian Michael",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=266804",
         "266804",
         "Housing:  D2e-d11"
+    ],
+    [
+        "Ianniccheri, Derrick Lee",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=271230",
+        "271230",
+        "Housing:  B5-d1"
     ],
     [
         "Icon, Roy Lee",
@@ -3273,7 +3321,7 @@
         "Johnson, Whitney Dey",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274590",
         "274590",
-        "Housing:  D1n-d4"
+        "Housing:  -"
     ],
     [
         "Jones, Christopher Lee",
@@ -3393,7 +3441,7 @@
         "Kelly, Melvin James",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=169737",
         "169737",
-        "Housing:  D1s-d8"
+        "Housing:  B4-d4"
     ],
     [
         "Kennedy, Kayla Rose",
@@ -3504,10 +3552,22 @@
         "Housing:  -"
     ],
     [
+        "Lampley, Billy Antwan",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=7786",
+        "7786",
+        "Housing:  A4-d1"
+    ],
+    [
         "Langhorst, Lucas William",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=224797",
         "224797",
         "Housing:  -"
+    ],
+    [
+        "Langston, Damarious Jerome",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274657",
+        "274657",
+        "Housing:  B3-d3"
     ],
     [
         "Laramee Ii, Joseph Rene",
@@ -3834,6 +3894,12 @@
         "Housing:  D2e-d10"
     ],
     [
+        "Macklem, George Richard",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=234278",
+        "234278",
+        "Housing:  B4-d2"
+    ],
+    [
         "Maddalina, Natasha Shea",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=231500",
         "231500",
@@ -3951,7 +4017,7 @@
         "Marroquin Chaj, Yony Rony",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274077",
         "274077",
-        "Housing:  B4-d1"
+        "Housing:  -"
     ],
     [
         "Marsh, Jada Amarah",
@@ -4146,9 +4212,9 @@
         "Housing:  B4-d3"
     ],
     [
-        "Mcgriff, Keyon Dontae",
-        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=216616",
-        "216616",
+        "Mckenna, Nicholas Paul",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274659",
+        "274659",
         "Housing:  -"
     ],
     [
@@ -4617,7 +4683,7 @@
         "Nealey, Anthony",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=269578",
         "269578",
-        "Housing:  B1-d2"
+        "Housing:  Med-d1"
     ],
     [
         "Neely, Kamal Jermaine",
@@ -4701,7 +4767,7 @@
         "Noel, Joseph Charles",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=249267",
         "249267",
-        "Housing:  B3-d4"
+        "Housing:  -"
     ],
     [
         "Nowakowski, Nicholas John",
@@ -4806,6 +4872,12 @@
         "Housing:  Med-d1"
     ],
     [
+        "Owens, Tiawan Charles",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=257804",
+        "257804",
+        "Housing:  A4-d1"
+    ],
+    [
         "Paciornik, Thomas V",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=272230",
         "272230",
@@ -4881,19 +4953,13 @@
         "Patrowic, Thomas William",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=100340",
         "100340",
-        "Housing:  B4-d2"
+        "Housing:  -"
     ],
     [
         "Patterson, Anthony Lamont",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=230580",
         "230580",
         "Housing:  A4-d1"
-    ],
-    [
-        "Patterson, Janae Ariel",
-        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=270336",
-        "270336",
-        "Housing:  -"
     ],
     [
         "Patterson, Rashaad Conrad Dominiqu",
@@ -4912,6 +4978,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=245211",
         "245211",
         "Housing:  B5-d3"
+    ],
+    [
+        "Pavella, Trent James",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=256089",
+        "256089",
+        "Housing:  -"
     ],
     [
         "Pavon, Olman",
@@ -5091,7 +5163,7 @@
         "Popo, Fedro J",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274102",
         "274102",
-        "Housing:  D2e-d11"
+        "Housing:  -"
     ],
     [
         "Porch, Edith Milagros",
@@ -5331,7 +5403,7 @@
         "Reyes Figueroa, Jon Giovannie",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274633",
         "274633",
-        "Housing:  D2e-d11"
+        "Housing:  A4-d2"
     ],
     [
         "Rhodes, Daniel Adam",
@@ -5350,12 +5422,6 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274558",
         "274558",
         "Housing:  B4-d2"
-    ],
-    [
-        "Richards, Akeem Javian",
-        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=261071",
-        "261071",
-        "Housing:  -"
     ],
     [
         "Richardson, Calvin Coleman",
@@ -5421,7 +5487,7 @@
         "Rios, Jaclyn",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=273950",
         "273950",
-        "Housing:  A3-d3"
+        "Housing:  Bk-b1"
     ],
     [
         "Rios, Jason Orlando",
@@ -5434,6 +5500,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=204015",
         "204015",
         "Housing:  D1s-d7"
+    ],
+    [
+        "Rios Fonseca, Sidelsy",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=273632",
+        "273632",
+        "Housing:  B4-d3"
     ],
     [
         "Riselvato, Stephen Thomas",
@@ -5553,7 +5625,13 @@
         "Rolle, Donald",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=195280",
         "195280",
-        "Housing:  B1-d3"
+        "Housing:  D2e-d11"
+    ],
+    [
+        "Romain, Jean Claudy",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274628",
+        "274628",
+        "Housing:  -"
     ],
     [
         "Romain, Jean Claudy",
@@ -5652,12 +5730,6 @@
         "Housing:  D1s-d6"
     ],
     [
-        "Saavedra, Crystal Victoria",
-        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=273287",
-        "273287",
-        "Housing:  -"
-    ],
-    [
         "Saraiah, Sepanta",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274624",
         "274624",
@@ -5680,6 +5752,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=271468",
         "271468",
         "Housing:  A3-d1"
+    ],
+    [
+        "Salomon, Nancy Elysabeth",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274479",
+        "274479",
+        "Housing:  -"
     ],
     [
         "Salter, Benjamin Kincaid",
@@ -5808,10 +5886,16 @@
         "Housing:  B1-d1"
     ],
     [
+        "Severin, Charsley Karl",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=273751",
+        "273751",
+        "Housing:  B3-d3"
+    ],
+    [
         "Shaffer, Shane Michael",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=223936",
         "223936",
-        "Housing:  D2w-d6"
+        "Housing:  D1s-d8"
     ],
     [
         "Shanks, Tavius Lamor",
@@ -6022,6 +6106,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274582",
         "274582",
         "Housing:  -"
+    ],
+    [
+        "Sosa-olivera, Bulmaro",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274656",
+        "274656",
+        "Housing:  B4-d2"
     ],
     [
         "Soto-escalera, Jose Antonio",
@@ -6240,6 +6330,12 @@
         "Housing:  B1-d2"
     ],
     [
+        "Tabora Castillo, Kevin Josue",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274660",
+        "274660",
+        "Housing:  D2w-d3"
+    ],
+    [
         "Taha, Khaliq Malakhai",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274338",
         "274338",
@@ -6261,7 +6357,7 @@
         "Taylor, Nathan Levon Lemar",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=249810",
         "249810",
-        "Housing:  D2e-d9"
+        "Housing:  -"
     ],
     [
         "Taylor, Shaylee Jean",
@@ -6334,6 +6430,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=42598",
         "42598",
         "Housing:  -"
+    ],
+    [
+        "Testa, Jordan Paul",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274675",
+        "274675",
+        "Housing:  Bk-b1"
     ],
     [
         "Theodore, Allan Serge",
@@ -6528,6 +6630,12 @@
         "Housing:  D2w-d2"
     ],
     [
+        "Tyson, Matthew Wayne",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=230406",
+        "230406",
+        "Housing:  D2w-d1"
+    ],
+    [
         "Ulrich, Samantha Lynn",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274632",
         "274632",
@@ -6537,7 +6645,7 @@
         "Uzel, Eson",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=274642",
         "274642",
-        "Housing:  B4-d3"
+        "Housing:  -"
     ],
     [
         "Valdes, Handiel",
@@ -6705,13 +6813,19 @@
         "Walker, Tawanna Latrese",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=251570",
         "251570",
-        "Housing:  D1n-d4"
+        "Housing:  -"
     ],
     [
         "Walker-perkins, Kishawn Zell",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=267563",
         "267563",
         "Housing:  B4-d2"
+    ],
+    [
+        "Walkes, Basil Alfred Alfonzo",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=265452",
+        "265452",
+        "Housing:  Med-d1"
     ],
     [
         "Walters, Jaelen Josiah",
@@ -6742,6 +6856,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=256922",
         "256922",
         "Housing:  D2w-d1"
+    ],
+    [
+        "Washington Jr, Eugene",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=132412",
+        "132412",
+        "Housing:  A1-d2"
     ],
     [
         "Washington, Samuel Isaac",
@@ -6825,7 +6945,7 @@
         "Wheeler, Dwayne D",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=2134",
         "2134",
-        "Housing:  B3-d4"
+        "Housing:  B3-d3"
     ],
     [
         "Wheeler, Jackie Lee",
@@ -7116,6 +7236,18 @@
         "Housing:  A1-d2"
     ],
     [
+        "Works, Amiracle Alissa",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=229671",
+        "229671",
+        "Housing:  D1n-d4"
+    ],
+    [
+        "Works, Whitney Rashemiha",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=224371",
+        "224371",
+        "Housing:  D1n-d4"
+    ],
+    [
         "Worley, Clayton D",
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=119602",
         "119602",
@@ -7168,6 +7300,12 @@
         "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=244200",
         "244200",
         "Housing:  D2w-d5"
+    ],
+    [
+        "Zamora, Marco L",
+        "https://jail.stluciesheriff.com/inmateProfile.php?inmate_id=145644",
+        "145644",
+        "Housing:  Bk-b1"
     ],
     [
         "Zamudio-hernandez, Nicholas Antonio",
